@@ -19,6 +19,3 @@ Make sure to check ✅ “Add Python to PATH” during installation.
 
 2. Install Required Libraries
 
-Open a terminal/command prompt, navigate to the project folder, and run:
-bash
-pip install -r requirements.txt
